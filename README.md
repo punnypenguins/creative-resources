@@ -1,6 +1,16 @@
 # creative-resources
 Resources for art or creation.
 
+## Journaling
+
+[Zinnia]() (iOS)
+
+[Notion]()
+
+[OneNote]()
+
+[Bullet journaling]()
+
 ## TTRPGs
 
 [Twine](https://twinery.org/) is an open-source tool for telling interactive, nonlinear stories.
